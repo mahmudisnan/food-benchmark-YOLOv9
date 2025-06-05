@@ -9,7 +9,7 @@ pip install streamlit
 # Run streamlit web app on local host
 streamlit run app.py
 ```
-![Local Image](Data/Streamlit-Food Detection.png)
+![Food Detection](Data/Streamlit-Foodet.png)
 
 # Dataset
 ### Accessing Dataset
