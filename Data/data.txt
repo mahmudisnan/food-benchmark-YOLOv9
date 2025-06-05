@@ -1,0 +1,1 @@
+Dataset can found on "https://www.aicrowd.com/research/the-food-recognition-benchmark-using-deeplearning-to-recognize-food-on-images"
